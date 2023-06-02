@@ -61,17 +61,17 @@
   "professionalExperience": [
     {
       "name": "Cargo",
-      "period": "Duração",
+      "duration": "Duração",
       "description": "Descrição"
     },
     {
       "name": "Cargo",
-      "period": "Duração",
+      "duration": "Duração",
       "description": "Descrição"
     },
     {
       "name": "Cargo",
-      "period": "Duração",
+      "duration": "Duração",
       "description": "Descrição"}
   ]
 }
